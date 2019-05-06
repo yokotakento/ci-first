@@ -11,4 +11,10 @@ public class AppTest {
         App classUnderTest = new App();
         assertNotNull("app should have a greeting", classUnderTest.getGreeting());
     }
+
+    // @Test public void testSum() {
+    //     App testApp = new App();
+    //     int x = testApp.calc(3);
+    //     assertEquals(9, x);
+    // }
 }

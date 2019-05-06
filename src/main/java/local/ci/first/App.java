@@ -11,4 +11,8 @@ public class App {
     public static void main(String[] args) {
         System.out.println(new App().getGreeting());
     }
+
+    // public int calc(int n) {
+    //     return 0;
+    // }
 }
