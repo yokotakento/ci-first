@@ -12,7 +12,7 @@ public class App {
         System.out.println(new App().getGreeting());
     }
 
-    public int calc(int n) {
-        return 0;
-    }
+    // public int calc(int n) {
+    //     return 0;
+    // }
 }
